@@ -1,0 +1,69 @@
+.boxInvoices {
+  width: 950px;
+  margin-top: 5px;
+  overflow: auto;
+  height: 430px;
+  border: 2px solid rgb(245, 241, 243);
+  border-radius: 6px;
+  background-color: white;
+}
+
+.headerInv {
+  width: 946px;
+  height: 50px;
+  background-color: rgb(235, 235, 235);
+  display: flex;
+}
+
+.styldata {
+  padding-top: 15px;
+  padding-left: 80px;
+  color: rgb(170, 166, 166);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.styldatatwo {
+  padding-top: 15px;
+  padding-left: 170px;
+  color: rgb(170, 166, 166);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.posData {
+  padding-top: 15px;
+  padding-left: 80px;
+  color: rgb(22, 21, 21);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 25px;
+}
+
+.allInv {
+  display: flex;
+}
+
+.posDataTwo {
+  padding-top: 15px;
+  margin-top: 25px;
+  padding-left: 170px;
+  color: rgb(22, 21, 21);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.download {
+  color: crimson;
+  margin-top: 8px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.headIn {
+  color: #afa9a9;
+  line-height: 25px;
+  font-size: 16px;
+  margin-top: 1000px;
+}

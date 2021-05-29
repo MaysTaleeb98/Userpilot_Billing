@@ -1,0 +1,234 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  background-color: #f3f5f9;
+}
+
+.sidebar {
+  bottom: 0px;
+  padding: 0px;
+}
+
+.main_content {
+  hight: 100%;
+}
+
+.headerSetiing {
+  padding-top: 10;
+  padding-left: 50px;
+}
+.aa {
+  padding-left: 30px;
+  padding-bottom: 80px;
+  color: #717171;
+  line-height: 25px;
+}
+.active {
+  padding-left: 20px;
+  padding-bottom: 80px;
+  color: #ec1077;
+  line-height: 56px;
+  list-style: decimal #ec1077;
+  text-decoration: underline;
+  text-decoration-line: underline;
+}
+
+.settingStyle {
+  margin-left: 1px;
+}
+
+.boxHeader {
+  background: #ffffff;
+  grid-area: Header;
+  display: grid;
+  font-size: 13px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 0 30px;
+  border-bottom: 1px solid #f1f0f0;
+  height: 140px;
+  width: 1400px;
+  padding-left: 20px;
+}
+.boxHeaderA {
+  display: grid;
+}
+
+.titleHeader {
+  padding-top: 16px;
+  padding-left: 20px;
+  color: rgb(2, 2, 31);
+  font-size: 20px;
+}
+.boxInfoProfile {
+  width: 253px;
+  background-color: black;
+  height: 90px;
+  margin-top: 10px;
+  margin-left: -20px;
+  padding: 10px;
+  color: white;
+}
+
+.boxHeaderB {
+  padding-left: 20px;
+  padding-top: 40px;
+  display: flex;
+  font-size: 16px;
+}
+
+.disActive {
+  padding-left: 45px;
+  color: #717171;
+  cursor: pointer;
+}
+.activetitle {
+  color: #ff167a;
+  border-bottom: 5px solid #ff167a;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(255, 22, 122);
+  padding-bottom: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.jj {
+  color: white;
+  margin-left: 185px;
+  cursor: pointer;
+  margin-top: -25px;
+}
+
+.posAct {
+  padding-left: 45px;
+}
+
+.general {
+  color: #717171;
+  cursor: pointer;
+}
+
+.siderBox {
+  background-color: #1f1f20;
+  width: 250px;
+  height: 1770px;
+}
+.siderBoxClose {
+  background-color: #1f1f20;
+  width: 100px;
+  height: 1770px;
+}
+
+.BigsiderBox {
+  display: grid;
+}
+
+.siderboxA {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.imgset {
+  padding-left: 80px;
+  cursor: pointer;
+}
+.imgsetClose {
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.imgClosIcon {
+  padding-left: 20px;
+  color: white;
+}
+
+.imggesOpen {
+  padding-left: 2px;
+  color: white;
+}
+
+.imgClosIconA {
+  padding-left: 27px;
+}
+.imgClosIconClose {
+  color: white;
+  margin-left: 18px;
+  cursor: pointer;
+}
+.imgClosIconCloseBB {
+  color: white;
+  margin-left: 18px;
+  cursor: pointer;
+  margin-left: 180px;
+  margin-top: -20px;
+}
+
+.imglogouer {
+  margin-top: 10px;
+}
+
+.imggesOpenA {
+  padding-left: 26px;
+  color: white;
+}
+.imgClosIconB {
+  padding-left: 34px;
+}
+.siderboxB {
+  margin-top: 50px;
+  margin-left: 16px;
+}
+
+.txtSid {
+  color: white;
+  padding-left: 20px;
+  cursor: pointer;
+  margin-top: -20px;
+  margin-left: 30px;
+  font-size: 14px;
+}
+.ico {
+  padding-left: 12px;
+  color: white;
+}
+
+.siderboxC {
+  margin-top: 27px;
+  margin-left: 8px;
+}
+
+.siderboxD {
+  margin-top: 450px;
+  margin-left: 10px;
+}
+
+.txtSidA {
+  color: white;
+  font-size: 13px;
+  padding-left: 12px;
+  cursor: pointer;
+}
+
+.imggs {
+  padding-left: 12px;
+}
+
+.InfoProfile {
+  margin-left: 60px;
+  margin-top: 6px;
+}
+
+.InfoProfileA {
+  margin-left: 60px;
+  margin-top: 9px;
+}

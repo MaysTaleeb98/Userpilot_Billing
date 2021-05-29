@@ -1,0 +1,38 @@
+ 
+    {
+        "organization": {
+            "name": "Mays Taleeb",
+            "primary_contact": "John Doe",
+            "billing_contacts": [
+                "john@doe.co",
+                "no-reply@userpilot.co"
+            ],
+            "billing_address": "1887 Whitney mesa dr ...",
+            "var_number": "123_456_789",
+            "additional_information": "",
+            "plan_details": {
+                "plan_type": "Standard",
+                "plan_expiry": "06/20/2021",
+                "mua": 1500,
+                "price": 0,
+                "applications": [
+                    {
+                        "application_name": "Acme Labs application",
+                        "production_usage": 1000,
+                        "staging_usage": 100
+                    }
+                
+                    
+
+                  
+                ]
+            },
+            "payment_method":{"cc_type":"master","last_four_digits":4111,"card_holder_name":"Joen Doe"},
+            "invoices": [
+                {"date_time": "Mar 6, 2020", "plan": "Starter Plan", "amount": 499, "invoice_number": "435432"},
+                {"date_time": "Apr 6, 2020", "plan": "Starter Plan", "amount": 499, "invoice_number": "435433"},
+                {"date_time": "May 6, 2020", "plan": "Starter Plan", "amount": 499, "invoice_number": "435434"},
+                {"date_time": "Jun 6, 2020", "plan": "Starter Plan", "amount": 499, "invoice_number": "435435"}
+            ]
+        }
+    }

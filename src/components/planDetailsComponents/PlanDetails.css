@@ -1,0 +1,842 @@
+.boxPlanDetails {
+  border: 2px solid rgb(245, 241, 243);
+  padding: 20px;
+  display: flex;
+  border-radius: 6px;
+  background-color: white;
+  width: 950px;
+}
+
+.headplan {
+  color: #afa9a9;
+  line-height: 25px;
+  font-size: 16px;
+  margin-top: 1000px;
+}
+
+.headPlanPos {
+  margin-top: 25px;
+}
+.posPlanbox {
+  margin-top: 0px;
+}
+
+.boxPlanDet {
+  border: 2px solid rgb(245, 241, 243);
+  display: flex;
+  border-radius: 6px;
+  width: 900px;
+  height: 400px;
+}
+
+.Dfelx {
+  display: flex;
+}
+.inerBoxA {
+  border: 2px solid rgb(245, 241, 243);
+  border-radius: 6px;
+  width: 590px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+}
+
+.inerBoxB {
+  border: 2px solid rgb(245, 241, 243);
+  display: flex;
+  border-radius: 6px;
+  margin-left: 20px;
+  width: 340px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+}
+.lineD {
+  margin-top: 20px;
+  background-color: rgb(245, 245, 245);
+  width: 620px;
+  height: 10px;
+}
+
+.inerBoxA-B {
+  display: grid;
+}
+
+.gri {
+  display: grid;
+}
+.topp {
+  margin-top: -30px;
+}
+.inerBoxA-B-C {
+  display: flex;
+}
+
+.fImg {
+  padding-top: 30px;
+  padding-left: 13px;
+  size: 53px;
+}
+.inerBoxA-B-C-D {
+  padding-top: 22px;
+  padding-left: 10px;
+}
+
+.textA {
+  font-size: 17.77px;
+  color: #8b8989;
+}
+
+.textB {
+  font-size: 17.77px;
+  padding-left: 5px;
+  color: #ff167a;
+}
+
+.textBS {
+  font-size: 17.77px;
+  padding-left: 5px;
+  color: rgb(6, 150, 61);
+}
+
+.textBE {
+  font-size: 17.77px;
+  padding-left: 5px;
+  color: rgb(6, 16, 150);
+}
+
+.firstBtn {
+}
+
+.BTTTN {
+  background-color: rgb(6, 150, 61);
+  margin-left: 10px;
+  height: 35px;
+  width: 120px;
+  border-radius: 8px;
+  color: white;
+  border-color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.textC-A {
+  font-size: 14px;
+  color: red;
+}
+.textC-B {
+  font-size: 14px;
+  color: red;
+  padding-left: 6px;
+}
+
+.underBox {
+  display: flex;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.underBoxTxt {
+  font-size: 15px;
+  color: #8b8989;
+}
+
+.underBoxTxtA {
+  padding-left: 67px;
+}
+
+.underBoxTxtB {
+  padding-left: 190px;
+}
+
+.textD {
+  color: #222021;
+}
+
+.textDbox {
+  padding-top: 25px;
+  padding-left: 16px;
+}
+
+.planUsgeBox {
+  margin-top: 12px;
+  margin-left: 23px;
+}
+
+.planUsgeBoxA {
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: #e7e7e7;
+  height: 140px;
+  width: 260px;
+  border-radius: 5px;
+  box-shadow: aliceblue;
+  display: grid;
+}
+
+.namePlanUsge {
+  color: #222021;
+  font-size: 13.77px;
+}
+
+.mapBox {
+  display: flex;
+}
+
+.planUsgeBoxB {
+  display: flex;
+  padding-left: 17px;
+}
+
+.pUtextA {
+  color: #8b8989;
+  font-size: 14px;
+}
+
+.pUtextB {
+  padding-left: 70px;
+  font-size: 14px;
+}
+
+.pUtextC {
+  padding-left: 100px;
+  font-size: 14px;
+}
+
+.inerBoxB-A {
+  display: grid;
+}
+
+.inerBoxBTitle {
+  padding-left: 110px;
+  padding-top: 30px;
+}
+
+.btnUtextC {
+  height: 25px;
+  width: 85px;
+  background-color: rgb(50, 50, 201);
+  color: white;
+  box-shadow: white;
+  border-radius: 5px;
+  border-color: white;
+  margin-left: 75px;
+}
+
+.Chart {
+  margin-left: 20px;
+  color: #8a13478c;
+}
+
+.totused {
+  margin-left: 135px;
+  color: #8b8989;
+}
+.redDowngrade {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(240, 135, 135);
+  border-radius: 5px;
+  border-color: rgb(142, 180, 142);
+  cursor: pointer;
+  border-style: inherit;
+  color: rgb(223, 11, 11);
+  font-size: 16px;
+}
+
+.fotUse {
+  display: flex;
+  margin-left: 95px;
+  margin-bottom: 60px;
+}
+
+.fotUseT {
+  color: #ff167a;
+}
+.fotUseTT {
+  padding-left: 5px;
+  color: #8b8989;
+}
+
+.fotUseTTT {
+  padding-left: 5px;
+}
+
+.slide-pane {
+  display: flex;
+  flex-direction: column;
+  background: rgb(252, 249, 249);
+  min-width: 100px;
+  height: 100%;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.5);
+  transition: transform 0.5s;
+  will-change: transform;
+}
+.slide-pane:focus {
+  outline-style: none;
+}
+.slide-pane_from_right {
+  margin-left: auto;
+  transform: translateX(100%);
+}
+.slide-pane_from_right.content-after-open {
+  transform: translateX(0%);
+}
+.slide-pane_from_right.content-before-close {
+  transform: translateX(100%);
+}
+.slide-pane_from_left {
+  margin-right: auto;
+  transform: translateX(-100%);
+}
+.slide-pane_from_left.content-after-open {
+  transform: translateX(0%);
+}
+.slide-pane_from_left.content-before-close {
+  transform: translateX(-100%);
+}
+.slide-pane_from_bottom {
+  height: 90vh;
+  margin-top: 10vh;
+  transform: translateY(100%);
+}
+.slide-pane_from_bottom.content-after-open {
+  transform: translateY(0%);
+}
+.slide-pane_from_bottom.content-before-close {
+  transform: translateY(100%);
+}
+.slide-pane__overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.slide-pane__overlay.overlay-after-open {
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: background-color 0.5s;
+}
+.slide-pane__overlay.overlay-before-close {
+  background-color: rgba(0, 0, 0, 0);
+}
+.slide-pane__header {
+  display: flex;
+  flex: 0 0 64px;
+  align-items: center;
+  background: #ebebeb;
+  height: 64px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.slide-pane__title-wrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 32px;
+  min-width: 0;
+}
+.slide-pane .slide-pane__title {
+  font-size: 18px;
+  font-weight: normal;
+  max-width: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  padding: 0;
+}
+.slide-pane__close {
+  margin-left: 24px;
+  padding: 16px;
+  opacity: 0.7;
+  cursor: pointer;
+}
+.slide-pane__close svg {
+  width: 12px;
+  padding: 0;
+}
+.slide-pane__content {
+  position: relative;
+  overflow-y: auto;
+  padding: 24px 32px;
+  flex: 1 1 auto;
+}
+.slide-pane__subtitle {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.slide-pane__overlay.overlay-after-open {
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: background-color 0.5s;
+}
+
+.slide-pane_from_bottom.content-after-open {
+  transform: translateY(0%);
+}
+
+.slide-pane__header {
+  display: flex;
+  flex: 0 0 64px;
+  align-items: center;
+  background: #ebebeb;
+  height: 64px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.slide-pane__close {
+  margin-left: 24px;
+  padding: 16px;
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.slide-pane__title-wrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 32px;
+  min-width: 0;
+}
+
+.slide-pane .slide-pane__title {
+  font-size: 18px;
+  font-weight: normal;
+  max-width: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  padding: 0;
+}
+
+.slide-pane__subtitle {
+  font-size: 12px;
+  margin-top: 2px;
+}
+.slide-pane__content {
+  position: relative;
+  overflow-y: auto;
+  padding: 24px 32px;
+  flex: 1 1 auto;
+}
+
+.boxChangePlane {
+  height: 800px;
+  width: 900px;
+}
+.titl {
+  margin-top: 10px;
+  margin-left: 510px;
+  font-size: 17px;
+}
+
+.titl-SE {
+  margin-top: 10px;
+  margin-left: 547px;
+  font-size: 17px;
+}
+
+.boxChangetwo {
+  display: flex;
+  margin-top: 30px;
+}
+
+.textChnane {
+  color: #8b8989;
+  padding-left: 250px;
+  font-size: 15px;
+}
+.textChnaneA {
+  color: #8b8989;
+  padding-left: 150px;
+  font-size: 15px;
+}
+.ichange {
+  padding-left: 6px;
+}
+
+.boxChangeth {
+  margin-top: 6px;
+  margin-left: 250px;
+  display: flex;
+}
+
+.btnChange {
+  height: 35px;
+  width: 80px;
+  color: #8b8989;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 3px;
+}
+
+.btnChangeSave {
+  background-color: #afa9a9;
+  color: white;
+  height: 25px;
+  width: 70px;
+  cursor: pointer;
+}
+.btnChangeSaveBox {
+  margin-top: 8px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.muaChange {
+  margin-top: 12px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.closeChnage {
+  color: #8b8989;
+  margin-left: 1250px;
+}
+.boxChangeFo {
+  display: flex;
+  margin-top: 28px;
+  margin-left: 310px;
+}
+.standardBoxChange {
+  height: 480px;
+  width: 310px;
+  background-color: white;
+  border-radius: 8px;
+  padding-left: -20px;
+  margin-left: 30px;
+  box-shadow: 4px 4px 4px 4px gray;
+}
+
+.standardBoxChange:hover {
+  border: 3px solid;
+  border-color: rgb(28, 107, 8);
+}
+
+.EnterpriseBoxChange {
+  height: 480px;
+  width: 310px;
+  background-color: white;
+  border-radius: 8px;
+  margin-left: 35px;
+  box-shadow: 4px 4px 4px 4px gray;
+}
+.EnterpriseBoxChange:hover {
+  border: 3px solid;
+  border-color: rgb(11, 11, 153);
+}
+
+.simgChange {
+  margin-left: 15px;
+}
+.scimgg {
+  padding-top: 17px;
+}
+.titChangeBox {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.standardBoxChange-A {
+  margin-top: 14px;
+  margin-left: 20px;
+  color: #1f1f20;
+  font-size: 24px;
+}
+
+.standardBoxChange-AA {
+  margin-top: 14px;
+  margin-left: 20px;
+  color: #8b8989;
+  font-size: 20px;
+}
+.standardBoxChange-B {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: #8b8989;
+  font-size: 14px;
+}
+
+.bttnChnage {
+  margin-left: 25px;
+  margin-top: 20px;
+}
+.btnSch {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(173, 219, 173);
+  border-radius: 5px;
+  border-color: rgb(142, 180, 142);
+  cursor: pointer;
+  border-style: inherit;
+  color: rgb(6, 165, 85);
+  font-size: 16px;
+}
+.btnSchEqual {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(173, 219, 173);
+  border-radius: 5px;
+  cursor: pointer;
+  border-style: inherit;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  border: 1px solid;
+  border-color: rgb(165, 221, 165);
+}
+.btnEch {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(165, 213, 245);
+  border-radius: 5px;
+  border-color: rgb(144, 192, 236);
+  cursor: pointer;
+  border-style: inherit;
+  color: blue;
+  font-size: 16px;
+}
+.btnEchEqual {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(165, 213, 245);
+  border-radius: 5px;
+  border-color: rgb(144, 192, 236);
+  cursor: pointer;
+  border-style: inherit;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  border: 1px solid;
+  border-color: rgb(54, 120, 241);
+}
+.listCh {
+  margin-top: 25px;
+  margin-left: 30px;
+  font-size: 12.66px;
+}
+
+.boxChangeFo-A {
+  padding-left: 30px;
+}
+.posboxch {
+  margin-left: 20px;
+}
+
+.listst {
+  margin-top: 35px;
+  margin-left: 30px;
+  font-size: 12.66px;
+  color: rgb(30, 131, 30);
+}
+
+.lefft {
+  margin-left: 30px;
+}
+.gg {
+  padding-left: 30px;
+}
+
+:root {
+  --switches-bg-color: white;
+  --switches-label-color: rgb(28, 28, 168);
+  --switch-bg-color: rgb(28, 28, 168);
+  --switch-text-color: white;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+/* resize font-size on html and body level. html is required for widths based on rem */
+
+/* p - decorative, not required */
+p {
+  margin-top: 2rem;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+/* container for all of the switch elements 
+  - adjust "width" to fit the content accordingly 
+*/
+.switches-container {
+  width: 160px;
+  height: 40px;
+  position: relative;
+  display: flex;
+  padding: 0;
+  position: relative;
+  background: var(--switches-bg-color);
+  line-height: 3rem;
+  border-radius: 4px;
+  border: 2px solid #cbcccf;
+  margin-left: 10px;
+  padding-top: -10px;
+}
+
+/* input (radio) for toggling. hidden - use labels for clicking on */
+.switches-container input {
+  visibility: hidden;
+  position: absolute;
+  margin-top: -5px;
+
+  top: 0;
+}
+
+/* labels for the input (radio) boxes - something to click on */
+.switches-container label {
+  width: 100%;
+  padding: 0;
+  margin-top: -5px;
+  text-align: center;
+  cursor: pointer;
+  color: #8b8989;
+}
+
+/* switch highlighters wrapper (sliding left / right) 
+  - need wrapper to enable the even margins around the highlight box
+*/
+.switch-wrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  padding: 0.15rem;
+  z-index: 3;
+
+  transition: transform 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+  /* transition: transform 1s; */
+}
+
+/* switch box highlighter */
+.switch {
+  background: var(--switch-bg-color);
+  height: 100%;
+}
+
+/* switch box labels
+  - default setup
+  - toggle afterwards based on radio:checked status 
+*/
+.switch div {
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  display: block;
+  color: var(--switch-text-color);
+  transition: opacity 0.2s cubic-bezier(0.77, 0, 0.175, 1) 0.125s;
+  will-change: opacity;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: -5px;
+}
+
+/* slide the switch box from right to left */
+.switches-container input:nth-of-type(1):checked ~ .switch-wrapper {
+  transform: translateX(0%);
+}
+
+/* slide the switch box from left to right */
+.switches-container input:nth-of-type(2):checked ~ .switch-wrapper {
+  transform: translateX(100%);
+}
+
+/* toggle the switch box labels - first checkbox:checked - show first switch div */
+.switches-container
+  input:nth-of-type(1):checked
+  ~ .switch-wrapper
+  .switch
+  div:nth-of-type(1) {
+  opacity: 1;
+}
+
+/* toggle the switch box labels - second checkbox:checked - show second switch div */
+.switches-container
+  input:nth-of-type(2):checked
+  ~ .switch-wrapper
+  .switch
+  div:nth-of-type(2) {
+  opacity: 1;
+}
+
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #e51ed4;
+}
+
+.maxValue {
+  margin-left: 999px;
+  margin-top: 10px;
+  color: #8b8989;
+}
+
+.haver:hover {
+  background-color: #ff167a;
+}
+.slide-pane.slide-pane_from_bottom.content-after-open {
+  margin-top: 0;
+  height: 100%;
+}
+
+.boxDowngrade {
+  height: 185px;
+  width: 508px;
+  background-color: #f5f5f5;
+  margin: -40px;
+  padding: 30px;
+  border-bottom: 2px solid;
+  border-color: rgb(226, 231, 225);
+}
+
+.boxDowngradeAA {
+  height: 215px;
+  width: 508px;
+  background-color: #ffffff;
+  margin: -40px;
+  padding: 30px;
+  border-bottom: 2px solid;
+  border-color: rgb(226, 231, 225);
+}
+
+.posDowngrade {
+  margin: 10px;
+  display: grid;
+}
+.PlanNDowngrade {
+  margin-top: 8px;
+  color: green;
+}
+
+.boxDowngrade-A {
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.numberDowngrade {
+  color: crimson;
+}
+
+.boxDowngrade-B {
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+.addDowngrade {
+  margin-top: 10px;
+  margin-left: 10px;
+  color: #8b8989;
+}
+
+.postionBoxsDowngrade {
+  margin-top: 30px;
+}
+
+.footerDowngrade {
+  margin-top: 180px;
+  display: flex;
+}
+
+.iIcon {
+  margin-top: -8px;
+  margin-left: -10px;
+  color: #706d6d;
+}

@@ -1,0 +1,200 @@
+.boxCancel {
+  margin-top: 60px;
+  background: #ffffff;
+  display: grid;
+  font-size: 13px;
+  justify-content: space-between;
+  border-bottom: 1px solid #f1f0f0;
+  height: 100px;
+  width: 1400px;
+}
+
+.cancelHeader {
+  color: rgb(245, 16, 16);
+  margin-top: 30px;
+  margin-left: 25px;
+  text-align: inherit;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.cancelTxt {
+  color: darkgray;
+  margin-left: 25px;
+  font-size: 16px;
+}
+
+.cancelPageOneBox {
+  width: 488px;
+  height: 1440px;
+  background-color: white;
+  margin: -40px;
+  padding: 30px;
+}
+
+.cancelPageOneBox-A {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.textCancel {
+  margin-left: 5px;
+  color: rgb(12, 11, 11);
+}
+.textCancelReson {
+  margin-left: 9px;
+  font-size: 13px;
+  margin-top: 40px;
+}
+
+.resonBox {
+  width: 486px;
+  height: 90px;
+  background-color: rgb(253, 253, 253);
+  margin-top: -14px;
+  margin-left: -25px;
+  padding: 20px;
+  box-shadow: 6px 6px rgb(226, 226, 226);
+}
+.resonQuestion {
+  margin-top: 20px;
+  margin-left: 5px;
+  font-size: 15px;
+}
+.SubCancelPageOneBox {
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 430px;
+  height: 130px;
+  background-color: rgba(215, 221, 247, 0.671);
+  border-radius: 5px;
+}
+.SubCancelPageOneBoxSecond {
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 430px;
+  height: 130px;
+  background-color: rgba(245, 238, 238, 0.671);
+  border-radius: 5px;
+}
+.SubCancelPageOneBox-A {
+  display: flex;
+}
+
+.SubCancelPageOneBoxLine {
+  width: 5px;
+  height: 130px;
+  background-color: rgb(7, 130, 187);
+  border-radius: 5px solid;
+}
+
+.SubCancelPageOneBoxLineSecond {
+  width: 5px;
+  height: 130px;
+  background-color: blue;
+  border-radius: 5px solid;
+}
+.SubCancelPageOneBoxImg {
+  margin-top: 20px;
+  margin-left: -60px;
+}
+.SubCancelPageOneBox-B {
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 260px;
+}
+
+.SubCancelPageOneBox-C {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.SubCancelBtn {
+  margin-top: 10px;
+}
+
+.SubCancelBtnStyle {
+  width: 120px;
+  height: 30px;
+  color: white;
+  background-color: rgb(7, 104, 168);
+  border-radius: 6px;
+  cursor: pointer;
+}
+.SubCancelBtnStyleSecond {
+  width: 120px;
+  height: 30px;
+  color: white;
+  background-color: rgb(14, 180, 103);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.footerCancel {
+  margin-top: 140px;
+  display: flex;
+}
+
+.btnCancelStyle-A {
+  height: 40px;
+  width: 160px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: crimson;
+  cursor: pointer;
+  border-color: crimson;
+}
+
+.btnCancel-AA {
+  margin-left: 180px;
+}
+
+.buy {
+  margin-left: 20px;
+  margin-top: 30px;
+  color: rgb(240, 240, 60);
+}
+.buyBox {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 15.3px;
+}
+
+.lastt {
+  margin-top: 5px;
+}
+
+.buyBtnBox {
+  margin-top: 330px;
+  margin-left: 370px;
+}
+
+.buyBtn {
+  height: 40px;
+  width: 85px;
+  border-radius: 4px;
+  background-color: rgb(5, 128, 58);
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.causesCancel {
+  margin-top: 14px;
+  margin-left: 8px;
+}
+
+.inputCancel {
+  height: 50px;
+  width: 430px;
+  cursor: pointer;
+  border-radius: 5px;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.inputCancel:hover {
+  border-color: thistle;
+  background-color: rgb(248, 202, 194);
+}

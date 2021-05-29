@@ -1,0 +1,204 @@
+.container {
+  border: 2px solid rgb(245, 241, 243);
+  padding-left: 20px;
+  padding-top: 12px;
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  width: 950px;
+  height: 250px;
+}
+.formOrgInfo {
+  width: 950px;
+  height: 305px;
+  background-color: rgb(231, 231, 231);
+}
+.test {
+  margin-top: 280px;
+  margin-right: 200px;
+  padding-bottom: 30px;
+}
+
+.ggh {
+  width: calc(100% - 300px);
+  margin-left: 340px;
+}
+
+.container .colA {
+}
+
+.vatNum {
+  padding-top: 0px;
+  padding-left: 630px;
+  margin-top: 0px;
+}
+
+.label {
+  color: #11013b;
+  line-height: 25px;
+  margin: auto;
+  font-size: 15px;
+}
+.hed {
+  color: #afa9a9;
+  line-height: 25px;
+  font-size: 16px;
+  margin-top: 1000px;
+}
+
+.headPos {
+  margin-top: 27px;
+}
+
+.Input {
+  border-radius: 5px;
+  width: 280px;
+  height: 35px;
+  border-color: #afa9a9;
+  font-size: 16px;
+  padding-top: 1px;
+  padding-left: 13px;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.Sel {
+  border-radius: 5px;
+  width: 280px;
+  height: 35px;
+  border-color: #afa9a9;
+  font-size: 16px;
+  padding-top: 1px;
+  padding-left: 13px;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.Lp {
+  margin-top: 1px;
+  padding-top: 15px;
+}
+
+.LAddInfo {
+  margin-top: 10px;
+}
+
+.vatNum {
+  margin-left: 20px;
+}
+.vt {
+  padding-bottom: 200px;
+}
+.pos {
+  margin-top: 0px;
+  width: calc(100% - 300px);
+  margin-left: 300px;
+}
+
+.boxBtn {
+  width: 950px;
+  margin-top: 16px;
+  margin-left: 500px;
+  overflow: auto;
+  height: 3px;
+  border: 2px solid rgb(255, 254, 255);
+  padding: 25px;
+  border-radius: 6px;
+  background-color: rgb(221, 17, 17);
+}
+
+.btn {
+  width: 90px;
+  height: 35px;
+  border-radius: 5px;
+  border-top-color: rgba(253, 252, 249, 0.747);
+  border-right-color: rgba(253, 252, 249, 0.747);
+  border-left-color: rgba(253, 252, 249, 0.747);
+  border-bottom-color: rgba(253, 252, 249, 0.747);
+  color: rgb(255, 255, 255);
+  background-color: rgb(219, 223, 221);
+  margin-left: 820px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.main__container {
+  width: calc(100% - 300px);
+  margin-left: 300px;
+}
+.textarea {
+  border-radius: 5px;
+  width: 280px;
+  height: 115px;
+  border-color: 28px #afa9a9;
+  font-size: 14px;
+  margin-top: 1px;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-style: oblique;
+}
+
+.labelAddInfo {
+  padding-top: 1px;
+  margin-top: 5px;
+}
+
+.colB {
+  padding-top: 1px;
+  margin-left: 25px;
+  margin-top: -16px;
+}
+
+.textareaAdd {
+  border-radius: 5px;
+  width: 280px;
+  height: 190px;
+  border-color: 28px #afa9a9;
+  font-size: 12px;
+  margin-top: 1px;
+  font-size: 16px;
+  padding-top: 18px;
+  padding-left: 13px;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.colC {
+  margin-left: 25px;
+}
+
+.boxBtn {
+  margin-bottom: 300px;
+}
+
+.down {
+  margin-top: 11px;
+  color: red;
+}
+
+.boxBttn {
+  margin-top: 50px;
+  margin-left: 0 -1060px;
+  background-color: blueviolet;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+}
+.errorBox {
+  margin-top: -60px;
+  margin-left: 39px;
+}
+.empty {
+  font-size: 13px;
+  color: red;
+}
+
+.errorBoxName {
+  margin-top: -175px;
+  margin-left: 39px;
+}
+
+.errorBoxOrgContact {
+  margin-left: 39px;
+  margin-top: -100px;
+}
