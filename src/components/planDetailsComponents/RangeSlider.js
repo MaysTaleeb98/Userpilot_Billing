@@ -1,7 +1,7 @@
 import Slider from "react-input-slider";
 import React, { useState } from "react";
 
-function SliderMays({ onChange, api }) {
+function SliderRange({ onChange, api }) {
   const [state, setState] = useState({ x: api.organization.plan_details.mua });
 
   return (
@@ -45,4 +45,4 @@ function SliderMays({ onChange, api }) {
   );
 }
 
-export default SliderMays;
+export default SliderRange;
